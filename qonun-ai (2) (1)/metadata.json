@@ -1,0 +1,6 @@
+{
+  "name": "Qonun AI",
+  "description": "Ҳушёри ҳуқуқӣ (ИИ) оид ба қонунҳо ва кодексҳои Ҷумҳурии Тоҷикистон (РТ). Машварати касбӣ бо забонҳои тоҷикӣ, русӣ, англисӣ ва ӯзбекӣ бо омори админ ва мутобиқат ба ҳама дастгоҳҳо.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
